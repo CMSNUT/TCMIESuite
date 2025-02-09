@@ -1,0 +1,12 @@
+name: TCMIESuite
+title: TCMIESuite
+username: dbf5yo-aikemi-xia
+account: dbf5yo-aikemi-xia
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13947490
+bundleId: 9771370
+url: https://dbf5yo-aikemi-xia.shinyapps.io/TCMIESuite/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
